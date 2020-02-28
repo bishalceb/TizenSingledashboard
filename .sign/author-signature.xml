@@ -1,0 +1,1469 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nBUnCVw/IQfacrVcqmDlUlecJSe3TgTU1yUV1HbetnE=</DigestValue>
+</Reference>
+<Reference URI="css%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1cUcIetNYRd3XJBtgb4sUqYQ8vaF6fDLOOjzyeL1qW4=</DigestValue>
+</Reference>
+<Reference URI="css%2Fstylee.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>urEU8KaD53za1zPfjGyQbHVeim6iybi2CSMR2FP8a8k=</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AzVZ+YMXgs+Tb30Gj4ZX+DXo8SqY+OrJIj/t4omRbrE=</DigestValue>
+</Reference>
+<Reference URI="images%2Ftizen_32.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eDr9ZPFlGlapLDnI1BiALwqovNdBvx3Aspc/lWOH3WI=</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vC90unDn5UoGA2hsOofUGyCpAODuGziDD814y8O8/y4=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8esFBfNxSTSahbZraMubPK9EI9JtUBizf+2g06pwhTg=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmainn.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kRQ4ukHwAfmYfC0ZWUlMAeceTPB8SeL5v7eO0TKHQko=</DigestValue>
+</Reference>
+<Reference URI="js%2FvideoPlayerr.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AWdGsFu/fQfqtIIBzH/ZXwhlbqWp0+W7J8jyVLESfP8=</DigestValue>
+</Reference>
+<Reference URI="largeIcon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rAw7lJBhsEMmVNXX6ENBIXM/I6/xCm9jdQQ2Ojp/niQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fcaph-2.1.1-150302.1080.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iOMYDUBz86XBs1jKFM8YdmGln1j2AKRFuTT6Rfp1jeM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fcaph-2.1.1-150302.720.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YTvE+hlgL7cOvLaPSLwfMtcBlYy5dF3d+thXXtsxnkU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fcaph-2.1.1-150302.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ONbLHcNSmVg8d0Hk9oV7AfVNBrvt7+nAen4jBMsdO8Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fcaph-2.1.1-150302.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Vs2Yf29QCkYO+IURg1vIyWLOang+cOO8Hz5st/FqTi0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fcaph.theme.stripe-2.1.1-150302.1080.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v71xrCm9aLzZXfC10gQK4lBAIuUosaUvR5QL5/SlSvY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fcaph.theme.stripe-2.1.1-150302.720.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S/e0TNSLTpF9dkJO+pxUjhBXBCb8168R95Aa9Xgd80s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fcaph.theme.stripe-2.1.1-150302.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OGkRuecF/vVx3RZ4rT7IK15qVY6FxsU72y8b+fV+klA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fcaph.theme.stripe-2.1.1-150302.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GNKezvR4T3W4DofVsDeRlEosOurBbaqm3C6JSxgvXLc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_l_down_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kabcmRHtJxXhMlVmhB21tfTKCNGc3tGDFf2JGf1Ugno=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_l_left_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kNUPVN9QH0wTeQLj7KNiKnXy96gnLQ1IUHSKicsWM+w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_l_right_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lauBX9Z1j9GVJYmB/lVmN5CgUrETANaJRA+z0HSW0a0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_l_up_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Wb4CPG8p2V8+afXWnoSkt2qLZtwOsMNDxUe7aknb5NE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_m_down_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0BEAsS2kH6LBaWqu8gvJtzVSCmH1r2RlFOEZSYBLt1Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_m_left_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LHWzMPjDs7C28ppCdpQlOnoYbW+ecy2FynLp3RVsKU8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_m_right_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ch7MYiS3zKTk2dlyGj0Hm+47QD7DfhI7KIPi0jM4jxs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_m_up_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HDfrhmuhE8XEnM5rBMdZuE/tm92QA4BC1nQE+7mJ8fk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_s_down_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d4YibOBDZNgr/dsI5jLd5JuGXAWC+U8Y3MgoHx4xhuk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_s_left_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uQkZh6kNDcRFPQGGQi95uMuAjObDSrVbtANEZSQQpKU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_s_right_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PWssf0ZoSb2hPrnJhRHztV9B0aaEPvjJ0K7/uwersGY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Farrow_s_up_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wkI5NDMuQs6noK+dY7Y/sAUpEuxAzaIkuTZ+QGsDbzo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fcomn_sub_arrow_left_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a9Iy77mMqU99kwJ0/iYJhVcn1VlDp9e2aIrdxAsjshE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fcomn_sub_arrow_right_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C6SD9G/gYNN+Y3zACuEw23WSTRJj+en53YAsXnyIAVI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fdetailpage_arrow_down.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>h9Meb1ERs00XPrymIypWuHV3ajHM4mzscWll3VTlyvU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fdetailpage_arrow_up.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lLwi0dDz4QP95EW9rc4YrYqtWYBKV/iIQgGLj+Zpqf0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Flist_arrow_c_right.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/FqTqScjpEhBblipuiS5DbhgqTBNOOFrU75TzktYCks=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Flist_arrow_c_right_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GcTBZc5hfuqLatavtMff68V4u9R+aNeIItBkKrOlMdg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Flist_arrow_c_right_s.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BxRwZOoeNoYFIFUBNNtq768hu206JKRbZbqQ/IuvbD4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fmc_navi_arrow_down.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aNiQk8TvKkqHgTowFQRFZ5brpcE1uFtAE1iMXee3Hfs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fmc_navi_arrow_left.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PDU6rDk3cVgqAIcdkg/hRq4mAI3rECdrj0vdWVBbneo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fmc_navi_arrow_right.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>B7teIsd6xXs3Vo0jlhw8JvjwnMJZe2Q2kRsOrkkMbNE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fmc_navi_arrow_up.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bft3GXUchckXTrnyUTLLBGqOyFNTA29c2kPtTmBCyUk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_arrow_down_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>99mSmKVogZ017+s4f/12BYWf8Zx9eLgDjrNRvdvt5MQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_arrow_down_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>N0FB3gPC6cGoMYsuj9eg7QWeLLrMZ3ogYDBQmuqQYvY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_arrow_down_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ay0Yt2cdZbjqaiN5zz1xfOaU+77ZYffooKjHzkZvFTc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_arrow_up_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vPdBv90vfx2bA/h/zkXGfAqL9RvJtNQqi0UTqW+7Qqk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_arrow_up_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RqR3LsehgwzgK9nEsy1G6v1yQiWT54mMuXXzROcDNVQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_arrow_up_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XtqpQ4hEblFOnRJtLBCWDgrBFKyimgzedj5JJhLgFxU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_arrow_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VD/KDDmqGJqz78qLhZJUJM450uEJcXyDlUpVfwiZj6k=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_arrow_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EA7hAm28kmJgB0OTO3dNvmfsH7FlM6Kr1R9limUz/tI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_arrow_s.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5VVUfGZK+OweTW55Qp4iTO8TocNNAS1FHp55UlNWc/E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_scroll_d_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TV9A7DWyVbuwQjiuPlXlT/mVkDSEsFMo9FCZv7FWqd4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_scroll_d_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>J1jGIfYpPPvR7CwQUna6UPIcvLK+werDM7+VdNBWGoc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_scroll_d_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7BprMGxUyhhrhv0+PURrpqhk35bxp9pRwnh4VySyiuU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_scroll_u_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ye1HYsqPVEv5O37TKV6xoSAoHoRFjf+6p1t0xreyVlo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_scroll_u_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4JMr4olGLX4vx/eHwHKYgBvUplJCzMS09MrDqKXqn78=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_dropdown_scroll_u_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JsOBDq26yveDXTDIuFFQ0c9/t+MJ4JpBoLMIqaQ8j2k=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_sublist_arrow_down_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xwt5YU7+x+PSfkMEC+So2/yvUaMXwCbgE5eKO4ir+eU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_sublist_arrow_down_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>niDQA+cEWqlTfT1W4EdYw1wJDk1Ft8kNVa/dQn8Eq5g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_sublist_arrow_down_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SHOS68NZHtITnGwBRvLbUFCBum6loEt+OyW0+g0eqnE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_sublist_arrow_up_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jdq8A/2b3kXEZVvoYgzQcTswyljMB+IXl9qxaGW1XTc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_sublist_arrow_up_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nr9SabqYC1+qijZ9NUH885Z8H5H6GBLbK52gMaaYMtw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow%2Fpopup_sublist_arrow_up_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UEk85k6p4U+l/cHqokfvicwpklPso0m2Df5YIyrNQ8g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Farrow_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5X7vT4VmuDe1XpO9x3tuE/Y2HD/P8Y23WsyILOQoVME=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fballoon%2Fpopup_balloon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nzbhAXIySzmBlejVQ6Z/zZcVV1rG1am2F1yUYEnXArc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fballoon%2Fpopup_balloon_tail_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2rDZlCh+J/1fycmAySem+sdrUnqUSXNk8j6hceQyvqQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fballoon%2Fpopup_balloon_tail_l.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XzR1uNM2PG5GdBv2SqMaL/cdvrabjbwTOXlImTIR79w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fballoon%2Fpopup_balloon_tail_r.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>n3LDxS8qALO3IhJ7QOBQBNHpkBcDwBLv09YRrb1CEIs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fballoon%2Fpopup_balloon_tail_u.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Yh0LYYDesetJTgGWLQ+9FYdpTEsPlq+337YP2Spr3g8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_down_s.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4y/EbJTCxk4uhA2ui2ZOQ/8FFecd0h+GQRAWrZUkI00=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_down_white.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qbQuHyLqhulMO9UdJEddCK/OrVElZmjiZ/lQ9LPRA0g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_down_white_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6xwK0HIEKnvwpp/bSRVTQhJQj11cHNvw28UpEktNcuk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_down_white_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QJT1sMNK1xIzsT4OK+Nk0TIShAcPQtvhXfahMwhmq1Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_down_white_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TXnSln45JTF2s1BZGgRCth7a8x0PovZKsJVBC78hge0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_up_s.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NQcVMcLPTp+H3jipsL2FtdtnRKAuVx+1zIuoD4mPCKA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_up_white.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>z7lAfHELtU4yro3AYab3MYnPe0I2SBpror5VDDIlBT8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_up_white_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i/7tRlpHFAwUIVmJOZPXJwToTm16/KgPsplFp/vvcQQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_up_white_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8Si0+sNBKlmivErzfbKG+4JQiLhgOJhBSRVLfaZrITU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fbutton%2Fobe_btn_arrow_up_white_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+kVbaKo9aLNfQ7eyqa/zGAkKOP4zyNowQ8MOeJxK9cE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fcheckbox_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pWvtOKV/HVxkJpMVR26m6YLPUrklKGOm5sL1dJalAvE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ffile_icon_device_usb.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HGgdxlebw9SIFOwq+ntRnAbu2X+c7DBcm193PLrdJ+o=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ffile_img_scene_shadow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wZ9PsBBI85xZtWntz+0uBI0L9Z6lUw6OV4p5ZqoW2k8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ffolder%2Ffile_browser_folder_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/c8fr9EsTeQRgXlMpiXiKp5Rjd3+jmlsQM0B7m7uIgY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ffolder%2Ffile_browser_folder_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Mc8cvefEGjwy0JPISfF3Rbu7vmNF5+tEKhya6txeLNk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ffolder%2Ffile_browser_folder_03.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GggRO9y1f4lKRhpFdshB6eu52aTp0W2QPeBdG4OcMkE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ffolder%2Ffile_browser_folder_04.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GApN+GUg5mT7mJBWskKUAYcX/mblxSQ1nDsUMTZ+GDU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ffolder%2Ffile_browser_upper.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kb9vzu8ehPDnV/t4ANPaodFGc9gMDf0st0leiwz7AOE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ffolder%2Ffile_browser_upper_folder.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XX4yBqEfKD8tXYD60owprdCPEK0haG6NiqkQXOuFn0Q=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_pre_wh.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vnll1fPXgOsNO+Jhsf/zWnewUqLDjiOVRwlaLNaY8e8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_precl_bl.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zTdKkFZzQQRHmMzbKbKBUj3n6M+E1IXzRoyRydLUfKo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_precl_blk.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3IlZz8HKNF7sW8CqDsXUkBXvZRedRxswcG7+J/N4Y+Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_precl_cy.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w384ivPcGySBmobjvmYUBLy+YG4LH1cFDJvlcNTrvn8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_precl_gr.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hHf/ahV7DbdOcmj4D4KMXEela+KUNVV2kzrYT8erwlM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_precl_mg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>64oQ3tAkGdTjd7LfAROBOY+oDmhI5f3UcO3lmk2Wd6Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_precl_re.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>79eBdFpEyiTmZp8QqQUbLvsY2Aeb6FvImNfe4amJ4Mc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_precl_yl.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6nQs++yc94e344PwPZw8Mh1R6YaZFY3LHe5FxWDpaMQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Ficon_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E21wn1Uuw6/c8ZHkyiWKqkzWoeAFqkCLNSSR8aZTlRg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finfo_poup_icon_ad.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g+H25vrVKIQqvuO6j3QFDg2j2bicvK0nHqlwYPp9uH8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finfo_poup_icon_dp.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SgzVEuij3H0CgVh67kwVvP4SfWmC4ow6uN2QkAp110s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finfo_poup_icon_ttx.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>spiY5WO14gy/oA9ukoK1jeELdR0pbeZWAnS4Y24H6Xw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finputbox%2Finput_box.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1IGEoY2we8/ydUHGle4BUUkF0eigcBJJsqGro53GdFw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finputbox%2Finput_box_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c7LTxgd2vNGjmGJZ1DJdijQcdf9uKTqCxMW+MGmHKu0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finputbox%2Finput_box_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ukl4qfeG2DjH+RkS4zduIjcw6eGlARma2N66Aar3crE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finputbox%2Finput_box_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OwBa9mrRGQzCzZjvTE3UHFX3uc5qMn2Ma3Ewhno4eWc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finputbox%2Finput_pin_place_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+3k73cJiKYSLHVi63Y2uVzJVp8d+YXVQbJUgOJYyDEA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finputbox%2Finput_pin_place_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Nq6mKlnVRcXcfDN2KHkJLBex3Kr1tSouis8W5UWskKw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finputbox%2Fobe_pin_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WJKad5IeNwTqsEnKBX5KzsEmUWSzA9MOorpIjut+aRI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Finputbox%2Fobe_pin_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>coqkHPJ09Fl0MPl04TT5JN9V5ERGli5w6fMB//93U/g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Floading%2Floading_bright_14.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mze0NdcQWL5gluDrb5sgUlkMNbRz74lcHkarcun28gU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Floading%2Floading_bright_17.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UaehB6eGTlR+5t1sYxiJgsaS082dlVknQQNKXEoyH7o=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Floading%2Floading_bright_20.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>juhKI71cweFoTDgHbalTTmbWAy2Cg6FfuFqTakgo7HU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Floading%2Floading_dark_14.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wu2ivgCKz+sf6EzQ4OsqmUgfzJcGYeaR18+SLFlbAeA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Floading%2Floading_dark_17.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Texd5iAxp8FIr5bbWZhZSxQH7pHayWvcxyI5Tajpsp8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Floading%2Floading_dark_20.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Cq4icbGx2tTorNdv8o+AlYxcYUnLKtr4xKPnCBmmMPE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fmc_img_clip_highlight.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XKAalSWq7Wum8KjnN9+pxrmJzvIgrIQLnxvZCUdZRfk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fmc_img_navigator_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4Bgutv0YvlKLuaC90huVUErP1F3NnmOw+PPIX750vO4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fmc_img_scene_shadow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AljSxg8qS73qbdw9YvBQ4eTm7q/T+96g1FV4B9dR1sc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fmc_playlist_thumbnail_play_default.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+ceVmanSuNP2aWqs6sKRodr9smsQXyBqB/pACJftxFs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fmusic%2Fmc_playlist_arrow_down.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d9kVuhRZF4JlOec35ePems+HWordPAbpnCMcHoUBUu0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fmusic%2Fmc_playlist_arrow_up.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cyaumhP2e6SQIEGUre2Qn8BtlyZYaTXsqweW7VkAmzg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fmusic%2Fmc_playlist_thumbnail_play.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KUT5CtWipG52yEu4poleeBgMFREormzbwh3FQqRWU3k=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fpopup_bg_shadow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VNY0HVhF0ZohvSwa5AIcoRb41G4eAEJojRa1vk46yXo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fpopup_sublist_shadow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>T4fuaYhxExEzo5VWDUPRhws5UY3DIbODPMrEKnjXJtw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fprogress_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HrB5+Kr2TKbyZMib71hQRzbvX0OzrQBT7HHRsWKWVlw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fradio_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zK061npdGI9wFy111InejUARw5frO2QigPuyOyFIr90=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Frating_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4d1IPvH44Njq/2XxOw30XMJa0GgkwN/6OT/zNt++mf0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_bg_focus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zCLogL3uinR0loPyYhIL13h5qzeIGr1rvQc/NYjM7Ds=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_bg_nor.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+bsMOqClIl97ZGeIuip1sxjrDKLUjHuffMNW4ly0uv8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_focus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>P0BiVSaD+CcYeym4oWWoCkLsS3R8c4N7FE3YiG8pa54=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_nor.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>r96QZ06QdRX8LqzeQqYX4tgA5YQuFNHnM8Yy1UZccrU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_over.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LnqqwB+avriHcWS5GqsJzyq0pc6V5tDtwhQDIU04AM8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_w_bg_focus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d80co5vt7J4cM61/pUlrLng7elg7hQIa/PLAvDHAGtc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_w_bg_nor.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6Q3gn+aamZk5tiwqsSFrQWPI9qflfej70tzTaVAh/tI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_w_focus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+d+WWNw7OFOQdf56WJvNt7rycgZn+E08SePDGnrAI8w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_w_nor.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Hv0khz5Kkv0vVDLLksPTIJ0G8vbViae2E74oLFhBUlg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fscrollbar%2Fchvol_scroll_w_over.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Wfpdti/r3GsNLd73Gza/XFn3Z4L65rwpSapZuF/nE5s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_curtain_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lfxTrZuZyOKcYzZHxAPhBxnwhiy/Tl6Bdbg+V3cUo74=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_curtain_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7/EJiLNzysAAYxjtY+OZDx+qEb824ZDX9KH2m7CA2cg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_down_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iCDJ49dMjpKuEncLtGrNHMOeiBWZOXyzrDXjgnOCZBo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_down_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ObaV2rQIgwk6bYWZSXxJ6iDeugZOSur6pmB/WUP2m5c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_left_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3bSrl+pCiPWOnH5UkXQvQasSDAjqRLew2qQbNXwYkqU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_left_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>opmjHAa5qbLgShcksq7sBnfg+GqzprK2Hs5JLm77SgU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_none_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cUx4A7tnAYX2dLt1wQz5SUfs5PmdSeXAPaZRScmLV9s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_none_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>llWDeQBETaL6F77q9helRJZjTq5sbwevr9whlADkp+0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_random_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wf8YuQRHkKuvS2IfH62YgN7dosz0kz/KqCJFOZHtVIA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_random_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>StjNLdx0uusStFTpixiTE6XqUm7mtha3oi0/axMtgg0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_right_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z2qcxhtVtYkngbtl4hytczNT8XbicBZEz/tuNazk+2M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_right_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b4d6eDsXUhSr11sUdWB8ZpX7JrTOLQh3SvnH6QydVpg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_still_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KjcAp7Cvi5ZKl1JIgRnzYb3+kcPb267Iz5ZfZU7DvCI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_still_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xciM0VMw7QZA6DJD1Ypmx8nHa8C8014mt8D06518XOE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_up_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LrIijcaifrTotKRPi6mBi1YYw8vZO1LtAU4JzTmsQgw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_fadein_up_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RuDaiSVJgjoS4NIPW/sVRIPhL9wAase+CeW+n7uMaKw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_scroll_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>upL7Ub2CE/P2Y8A1QU/MagGqtZTu/uqCc9kUrfMVf+w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_scroll_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5tWND01tDuZQJH/ey+OV6yjGpsrbVSlgQ18FmM3k0Tw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_spinfadein_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NscqhfnY2sGDWUSs7dNcm9w3ZTY2KF2V+gxZNbR/u5w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_spinfadein_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1wcowPuIA2WaePxt93T09eZYa4if9p8r64rAoTmfr9Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_wipe_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AxWfstHJteT+92ruqYz6ixSYDEJzGTN72xqUbyVqvuI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fslideshow_icon%2Fmc_popup_icon_wipe_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bmpghkRLoUQb4Eha85S3d17WFmG/4mmfpR4rTmDQUgQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fspinner%2Fobe_btn_arrow_down_white_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QJT1sMNK1xIzsT4OK+Nk0TIShAcPQtvhXfahMwhmq1Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fspinner%2Fobe_btn_arrow_down_white_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TXnSln45JTF2s1BZGgRCth7a8x0PovZKsJVBC78hge0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fspinner%2Fobe_btn_arrow_up_white_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8Si0+sNBKlmivErzfbKG+4JQiLhgOJhBSRVLfaZrITU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fspinner%2Fobe_btn_arrow_up_white_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+kVbaKo9aLNfQ7eyqa/zGAkKOP4zyNowQ8MOeJxK9cE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fspinner_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QCziR8wouAQ03nUg8KHOFGM5l/D/vSbYlMPm7iHEo8c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_fastback_x2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EstsGNdnIh5ovyhSOPfo1XSyGePmi9BafgsYvECk4l8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_fastback_x3.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uNsdJnCYql1mpORpJ1NXPv0gleOsnuUvoGYeM+mUyqI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_fastback_x4.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TyeeAcITB5oB/1y1d6J+KNC/xOuApgCA5wT4tHtwXXU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_fastforwardx2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WfPc+DaJxdXNCvr+CxmeiGeEqXo/VO5m1Cg8BS8N7ZU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_fastforwardx3.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cZnEBllKbM0TfcIttVQU2R/cOShC82/qYPpP6ySOJ0c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_fastforwardx4.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JhhU0UXrPE9X100Z0QBUfgcvsGZf6b7ISYOYSm8KWKw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_pause.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E4GS6zYxzxuKGmHlcAxWQlJ77sIJIGSQjFkAKOIBGII=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_play.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FLrTTqpnSNP4IvLzAwnRijQa0gVsdfqprGdow1dIINs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_slowlyback_1_2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Gy5OBhIYsDT1szqlav8T3HfymRMxSGgSa4XYjZSFdNs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_slowlyback_1_3.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WHfNj3rXW1PttsaAEYjEmtgpKj/vxK55Dd8f5xljNNk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_slowlyback_1_4.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iod1Dpm354jsWC8IzXZgNaoHNVJZ6aGuX61mjPLlEIM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_slowlyforward_1_2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iZBNOg3BVovaZ+0zYxUiAwE5F07V7thtP+Zo+KhuArk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_slowlyforward_1_3.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YBJv2/5UnJAFHuq3Mf0NqVCaPuzwWXq48B3xADZLiKE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F1080%2Fstatus_mode%2Fmc_status_icon_slowlyforward_1_4.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qC11kX8PE1YzgHACQDE0wdAx9sDYkZDVXmG0iF3LJjw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_l_down_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2dSa/jQrt55gpRR6ocnTIqNvsQ+eidPui7FgOKl9MA0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_l_left_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GLao8vTu0p6Bglqg8ZaQriqb3/5TYfCVC/TB/b2tNLA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_l_right_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZV/d0U4e12X4QsKvlPgGdQNS6vFgKxfC7rhTqsWOFCI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_l_up_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YGGuipuxWYc1G0g5T/2kjauNGoY2rHAMiuLnva+of0w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_m_down_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rWbOo/QuemwS70F/tsffgF2F4sDTUTwRFZPOhzAweBg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_m_left_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bWIjFHwz8r0DiuhWBpaCz/D48CfhgNot9r/nR6nY+lc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_m_right_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Jc6cuhxVrWWdg4+HxhL9p5tzgi9l5kRKCRJf3tiiv9U=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_m_up_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L2aB31/VQ556uPc1SceUED09omCbRaT8aq4dbTrODhQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_s_down_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hUuq+Fxm1Zvf2ZMfi96I1Mel62krlU22roHARtuAzFw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_s_left_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>74xCPFVbXiRAqh6sBoEXMRLukN8oyvt+9OOWkQGl0N4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_s_right_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UYac4UmXOzGx5Mu5wJAU6AkpGt8o+2EWDqZMAE04CYI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Farrow_s_up_w.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TSRFgEWYeCETHxCQKxiMtFb0wuFjJJjQSmOdR9dvirQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fcomn_sub_arrow_left_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qu6SP++H2AF5CiAcPce+ZgBKBuvyT1c8CRzvElQ+bcI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fcomn_sub_arrow_right_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zj0K84JuGviUKeBGwRZgTeCDZoEJvzT/OuIfy9sF6h4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fdetailpage_arrow_down.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g8jkY8+TOWCZYKCw6fIfMyGYVvKlZHxhAaq0cn0H8rs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fdetailpage_arrow_up.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4ZXIGsKE9uPkYDS1mVgpxGFmZnt+ODgwTcXrPefoNrY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Flist_arrow_c_right.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4nUUwNj1AxBhNbTM639tLDbfOVym+zoM9QqEzCsj7X8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Flist_arrow_c_right_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/osxutNlayLeXr6WIoXBqhpOnTX/kaI2XxLhZ87zoNc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Flist_arrow_c_right_s.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GuNGLMfWWdnubFPJ7m7bN81IiTKROFYBdpRFOqyiiaA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fmc_navi_arrow_down.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GVOs2AhdVCRHNOdl1cwwDJWPcUFZBwt4RLzmRWVrhDg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fmc_navi_arrow_left.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Yp+ZcjcvQfTlz9xDm1R6ZAJfLnf2dYlO0BgakMmwCao=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fmc_navi_arrow_right.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6chic3Hp6ppH9EJkPeyXYnwmnAgeZu+wuijSljPkWVc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fmc_navi_arrow_up.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nNTyAxx6E69dYlWPg8mrg6y9uYMMIHTyMf0TMtyv4Z8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_arrow_down_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pwHZMOeHlzgt4ojKa8O+zNim95BdhmI/sL+R7TpWqtM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_arrow_down_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>R95pi9GHjBIiRvFot9Mox+93BB2jk92iHsT7vsts2sQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_arrow_down_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qfwXL54+n75YP3uVIbNAzyckvNzzq5Mvp23i4eu06xQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_arrow_up_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dDe15NASEVGUmkjSPKxt+tSejBJBR2Mhht/mljLUal4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_arrow_up_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AWHked0FQkvzCXviuWJuECeUFYy0tywRXN2V7fiIju0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_arrow_up_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Gp6IjKRHzked0kqSRWLPq05LY7A0wYsJeTQtvzT3is0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_arrow_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d0NgQX8ZNJf3bEY9jIhQdkB4Amr0FHHW5/Hj7BvURtg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_arrow_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IKFDtgJIjAI2EAIwTkrX68w6jbG4fAhLFWHQ9uKJ6PI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_arrow_s.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0O7gafowzSSEXuOLSNRH35D5TUqtxaqLgXKIrvJnFg8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_scroll_d_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2yYa2E5PI16h+YtI1zZld5se/EO4DnyZCeEpp58DzNM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_scroll_d_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e2/7oaYKHUolnkX+9DSKdKynjSz/4uovEu1EiBzFQQ8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_scroll_d_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Krt7ap27ZhQm3qNNn6oA0NTaWRucbRC8h1+tYOasPvU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_scroll_u_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lxNyGpt5F+gzf9vbb9EErd07UgcSSko3hk6YJVpOrAk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_scroll_u_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Wqie6PpgfqsIkU8q5cJbOsPKvXz2wEdS+1sQkD8xCfk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_dropdown_scroll_u_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>67nOvBE/sKicq/Z/PdaIjb+sj2w+WGSc2P7lcp1h6G0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_sublist_arrow_down_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2AcfrfyI3t+JuUuUD65IUA/zO+5uG+3u7IQ0Ec2UCm4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_sublist_arrow_down_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eK7UGXaNgS5V0kSWEYU3rMpHgrq/9H3KZI9UA43JdGM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_sublist_arrow_down_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rp2mNjj4a5yIjd48onXsb6wIUwH/807KIUVMfLhq134=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_sublist_arrow_up_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>msrHQnHSk9J1rtcMgYU1GaBjF4jQfcAa/CT2QnUcEi4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_sublist_arrow_up_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>40Zm3WKR1em5qBntWluluhX2ze4vU28zKPwhu659JHw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow%2Fpopup_sublist_arrow_up_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3fsTooJ0GfEWsBwVY/COcS9l2oaAB8CeWVuOkQEQgpE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Farrow_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HCi50Zkk4gUqOZ7uiBaLhrHxnCPVDeCmJLYlsav7V80=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fballoon%2Fpopup_balloon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HLYNsw5Ad5rBMjRF5Ni/8SVe8ffZ0AWKXwVL+7tlV58=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fballoon%2Fpopup_balloon_tail_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qdP23NgvNvkEQUqMHQloKcrbLkHV9SlqA52CJt+zJPQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fballoon%2Fpopup_balloon_tail_l.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WDyj/KY+0aaK0a6wyipt6u50BkFQ7QhL2f7vgcXbvM4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fballoon%2Fpopup_balloon_tail_r.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yQ3cDtDSqULCmM3clahhsJXXmWcuisEyHqORYlPb9hE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fballoon%2Fpopup_balloon_tail_u.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dFQyisdGNEkXg3dvT0WDBUNsU58GDYJFeEgEvAiUEi0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fbutton%2Fobe_btn_arrow_down_s.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZG5Fmwyuesb4hhYJCg5IqDsb/bRsKcR6vi5y2hH6Afs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fbutton%2Fobe_btn_arrow_down_white_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MJFKdT7HicUtBWeQfw845e1cnSpIRdWlBXGNu+AusAM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fbutton%2Fobe_btn_arrow_down_white_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IzYJfsp1hUb809XQZKizVNn/QPLk7ADeM4P8IsOlROU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fbutton%2Fobe_btn_arrow_down_white_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Bkfqz1DISn4kzsc1ENqfoNjJ++RfSIBdgC+pWdeXl6w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fbutton%2Fobe_btn_arrow_up_s.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lb9wELHr3PTB+nbrsgEy6jwVy536nru49kuDbWpgmCQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fbutton%2Fobe_btn_arrow_up_white_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XkFe02R5GLEkpVcD+FRYNmGuyxYAf0SgZxQM22H8NMY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fbutton%2Fobe_btn_arrow_up_white_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8UeDynuFr6mjq6FdNxfK/Lk7ehDllwVtm1c3+ttjw/4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fbutton%2Fobe_btn_arrow_up_white_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>614YI4nmzTVRC/xTgVYRcBdrUPHQBlK84jrf9pQcXZ4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fcheckbox_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YJLnhwDxoFxGAj9hGcYHpHjmTZ01szbx25XbjFN+rQo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ffile_icon_device_usb.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dDvDM/tmLKpl5HCWueiYEBw6jRpCiPP3mbbRBWT9CQ4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ffile_img_scene_shadow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GdIV/p+FDvBGEdxTX+9XG7rE2mmhL9HinIpJW70EAcI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ffolder%2Ffile_browser_folder_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pjhEAVWlDihHGvffwSbtjVXEu400BGRYZbDR6KX46j8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ffolder%2Ffile_browser_folder_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>B4F0fWmhhK0bYyEPxduo/s7R6uSiiUuzjM625U1TLoU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ffolder%2Ffile_browser_folder_03.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xx+Flcm5s6wTgT+PqE6iDVwznV7I/7ChCf262Z6D+OE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ffolder%2Ffile_browser_folder_04.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DYy1vyuXvvhQL/a1j7LXcbuxcc4arV3w0SSQpTpAXeM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ffolder%2Ffile_browser_upper.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Zap6dtrxm/5SBDXlD6NKpowP2UjJy/m76JI2pARjHVo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ffolder%2Ffile_browser_upper_folder.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2eIMJym4l6ROW6rBut+bR1KNKDrDqU9afIWeWcabDSQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_pre_wh.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wamWKnsvoDo4QjWs0OeNznPPBjX6j8KCKy2CF8CFn+E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_precl_bl.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>933gAle8Hxrfa59BzbTJJLKzkg3yUwkrvK+TV3mEkgA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_precl_blk.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>21gMHr5h0ApAb167bp7ZsVEjd07+Em5DPrrLwZAhXb0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_precl_cy.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1euIuHUQxVNh3+TTyJVl/5SR3lCKTq3WKUOva9nSZiU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_precl_gr.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PvdI5yzOBxRlEC31czq6T1qW0e7TCDoRy7j3n2O0GF8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_precl_mg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6OSiYXGPMQQ7HxQCQ1dKSLPrDf1a5FcBb5bfoQseilY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_precl_re.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iUzvOBBXVwybiJrSts7dIrZ9CKEmF7euQNtyYPilyzA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_precl_yl.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lx1GjDqR4dM9kk/uXq/PUT2fa/RF6WrqX3ebBJrb9l0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Ficon_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>162zhqEpweA2kM0V51k+8WwmU3HKm/8tbOSuBjHESHs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finfo_poup_icon_ad.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kgdD+Bb7w3jp0LNcOhGtHVM6c+c+iWsBgAPxLZy1F+c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finfo_poup_icon_dp.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ydkh5bdhB2hBWHS86/BXobfRVmjFA/cRsSjuLNgH53E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finfo_poup_icon_ttx.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7IMsGMF9sgAhsjgK+Wv5L2kfnzIYNVtjHfT5UZm697M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finputbox%2Finput_box.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hbTlzGueMX3ZsUa4xQnyoy7TQlY/ij0ou0j6vw4mW0c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finputbox%2Finput_box_d.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MOiGzs4bPSLXmBbbq9AQlAL85NCflDUE7bgd+76OeIs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finputbox%2Finput_box_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MIKYFk+QWfLrP0qESeFqrqV7LcK4L55+AhcmMslAKsE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finputbox%2Finput_box_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iDDrrbsw+tU/P8PLEbJR78092a0dGwj9KnSnEAnB3dg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finputbox%2Finput_pin_place_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6KFx0SulUjNRFWtVOfCm5T4YT42oHc0r4owyiDEN9IU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finputbox%2Finput_pin_place_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nQL8w3SmOmFvJzDrON8D45EE0kSe8CVfn1R4kkQqJJk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finputbox%2Fobe_pin_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dllTuVAsg6ST0bDO/f9uG0tmQruG9w/Xst8U44M9YPY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Finputbox%2Fobe_pin_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3lWBXyS22QxJD/IHe/K6KIEB5zbxuTm+uq0Yu8xE20g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Floading%2Floading_bright_14.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>f53LvgmZra4bm5jXaYvepdfFtlOiITPrr9HYoAeketQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Floading%2Floading_bright_17.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>s3hTbCMVqAdKLIebiDwDe3qkLIT3hAtqH5uQyBMb2qg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Floading%2Floading_bright_20.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uVdi1dhwNyHDzMQBK+D8hUuIG+Y7wDsjp9oJ0QjwFj0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Floading%2Floading_dark_14.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KNwKXk71nJ11IZmGoiuctR3LLs4qRowGozYoggfkeII=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Floading%2Floading_dark_17.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L+rd8t2OdoWH7fjCAoqnnUoZ0uwLTnD7w8hwhTGJ0jc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Floading%2Floading_dark_20.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6rU9P0aaYH0t/FOUXdxn1CMi/gQPPN32wRGftVxWXo4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fmc_img_clip_highlight.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8uGuH6qQW5z9wDaKZo11/g0EteYOmh8JQF4pdX3ivpo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fmc_img_navigator_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4Bgutv0YvlKLuaC90huVUErP1F3NnmOw+PPIX750vO4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fmc_img_scene_shadow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1YvEKk3zWcgeF2Zd2jxfUFYC42nrqUaGWoE4v7pXxdw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fmc_playlist_thumbnail_play_default.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MUEZyVcexVw1TUPAQ29DphMrBRObtR0+cEqNgWCb6RM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fmusic%2Fmc_playlist_arrow_down.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0rL7d1Nwd4nQvSMfp+dzohWXO5d8nJ1utH4alHSS/l4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fmusic%2Fmc_playlist_arrow_up.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qIw1ONLUitfAI5ljJsR5KufbIHwAAiZ27UeVPV5oX88=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fmusic%2Fmc_playlist_thumbnail_play.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>J5FxEodleZ1Ht+pp78rmrIWa57i3VkreLZYY/RSCEUg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fpopup_bg_shadow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5kD8yBtNxZskpofZolo092B8dfZJN9RqK6G7fhMrzQ4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fpopup_sublist_shadow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pDiO/2FMKL1BO719+J/mCfj0I/JgI7iDUkjCBRF9aUE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fprogress_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j+frmOHQh1oPjpsFh6nX/G0VA/wxRUcaGNFXO+wMhDs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fradio_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>h+C6C1pPdQ01OZ3ppVTR6BYa3rEDoLV2cpceSz+rDUQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Frating_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>umuji9RDDmHlES6o595RPj5/JOS7Htw+HdJCJ9r37i8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_bg_focus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Wpk49lNkbINMgg3TErka/jfC0O+FA6s7aOt88d6Ekhc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_bg_nor.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jsjhBxAU9W9sEz9iJMwuTeu1Flq49sPFpnlxWKqRcZM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_focus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nC/ZK6lNAdpLPeq9+2SSK+/IpaLWIeKr+O3SX5ZGR88=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_nor.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UMQVEinH0Z/P7jImTy8pcanN+7rtHchSQ1l5ZnNsy2g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_over.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2ZNdmW0Arav6l6ykVKEd1i4i2y9QOuN48c7vYogD25s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_w_bg_focus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qaJTwpQIY2pKt7OB5Wmjhr3ISs7fPQ6HWRleDb+CzJs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_w_bg_nor.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PxeenxMXAvsfqJK8fD28JZmi3ZRxmpu/S6BylG5Xa44=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_w_focus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Qsh5UR0aWQsWSOIO1fv+jwSamZGrzzt38orCvxhvJ60=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_w_nor.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NV/8jz+WvMLGItMZfwco9g5TclWgbS0+aehySl/lsAI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fscrollbar%2Fchvol_scroll_w_over.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lvckImiwhozoQC3/6QWIvHH/cNPIG81oZD2TzeG33ao=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_curtain_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zHO7JO1sF9eQaKRkSxb4+yyVOWg86p9TEvf+lmfJOPc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_curtain_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rAr4yPDyr0A/l3R6d1kiyGEisFBp77vYWTgW6zWJv8g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_down_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oHuwwsEJI8jyDDPpI0Lbwt/PJLNLzIPN0r7kF8fhpE4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_down_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SvcJwh+CBKvGRsqtQtv4B52JIAz4Zp0y72lzLJOrB7g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_left_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>s2vPCwW5ujjQtgp46wTOgjwGYctakfo4p1+N9oQKcpE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_left_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7OSssYYUEkzbuLYSurwxJeSlYqhYTofDDAU+f3384EY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_none_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Rjo5r/O1q+R4/Sl303Xw+JMJz1dlY3hLaxPEC5oiSCc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_none_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xFG7XAN1TWeeLmVW9sMbTgFz6nUGJHZ+ZU5Fd6zG9bc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_random_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Nethg2/ImgBT5N46i99PF0Zp7jQP3fNgy5gXAWZR2Us=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_random_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HDlm9FhQBClGjbPYnZhV7o0QYjdpYIWv62czI0pqkzM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_right_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>t/LTui6HPHvR0Y3TnEp2HfcW1BYAuuc4LYp4p4ZO0sQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_right_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Eaas6mFe58tKuSAUJp+g3q/Xrj4OQmwy08iDSdc3Nq4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_still_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9EDtiPsyee4ofR0iMcFt7QxI4MT5dQUYwK2nSk9Vc4E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_still_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eMlaojWibqKavxU7FXDrit4H8HHrW2062eFfjAhZsGg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_up_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HRozqdH2Kq87m94pGgL953/XDXGZwKShIQVE6eW3SNg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_fadein_up_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BPRRqOyGLL7fs1djpXarQSYI1tjDufRSVSG68q5qzYI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_scroll_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PVMFGjmTdtupGZAQN9HG7TRvnsNxdPYufxKR77hhLYM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_scroll_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H0eNjsRO16HrF+ViUiZIPjR/xDTD9mczzeEMoZ10/es=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_spinfadein_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KrRvy2/e0sHDoKr8XhN6YE6z3DRdMNexIHhzPbErNxU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_spinfadein_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qQiwO1YQzBZ7FIaMwsbiYpCZ6nJb0c2SCerb0DlyTKI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_wipe_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mF3joRTPQ3duIQHJPt3btzaMmaidM4mxV+qpbyCOCJQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fslideshow_icon%2Fmc_popup_icon_wipe_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OZzUcvpwFh9o/O/Ej1uFBOmpTDOgncGQfpF02ksbghw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fspinner%2Fobe_btn_arrow_down_white_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IzYJfsp1hUb809XQZKizVNn/QPLk7ADeM4P8IsOlROU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fspinner%2Fobe_btn_arrow_down_white_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Bkfqz1DISn4kzsc1ENqfoNjJ++RfSIBdgC+pWdeXl6w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fspinner%2Fobe_btn_arrow_up_white_f.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8UeDynuFr6mjq6FdNxfK/Lk7ehDllwVtm1c3+ttjw/4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fspinner%2Fobe_btn_arrow_up_white_n.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>614YI4nmzTVRC/xTgVYRcBdrUPHQBlK84jrf9pQcXZ4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fspinner_sprite.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>04YsaV3d4OwXE2eP/HgG1m1T6haSPygOOJcTaeDtXZE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_fastback_x2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7uV8tboaRwVxmn9J/s4EZT6s8RQ+LkBky5CXbgFuBmg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_fastback_x3.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NTLR/IjsnGXG4pTKH8Rk2P4Rhqg+0mi1IuKVNxQk0m4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_fastback_x4.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fVfn/WX/2h7NL6/j5DS+5G15RSog0ERH5RsyCOnAEb8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_fastforwardx2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lfi4HIfzjJPqrx2mnrQm+qtq6YtvDbGlzOFgsn+dy00=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_fastforwardx3.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NnsuFCTKZpi9g0xlLf3aLU9zFXDLD2Ec8uyatdoWlmM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_fastforwardx4.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>I9jW9+AxzUVRo8iXQ2RwlUhxdEKleHh6DyHwnZ4g25o=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_pause.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cBi5iNnd2TkaZ3kkfWhRzZWLjAHlxp5+nr2Gw8e8XO4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_play.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ptaG6oPCc4OaxiQyvKOXII8Wng8SfKoFNtnCUaXogu0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_slowlyback_1_2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yyZMLI1r8dqQHV6RPuxFA8xxMDqRLu7y6Prta0f0Ux4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_slowlyback_1_3.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TabyXxth0zPSwpAE26tSyK+gsDVQjTTNFtSKENwMoYs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_slowlyback_1_4.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oAUCv4FPhEwk9oiAdyUGOwbyrG5VUpvGG6D1qcut0bc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_slowlyforward_1_2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7rgH61Qe0xaOd9yMA1RpIkHxos+rJ0wSHHFQpcAqjVk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_slowlyforward_1_3.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xJmC7fBRHQKgzdYcpXIl9bNGdaBcOFQ5zxFYkd6Eky0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fimage%2Fstripe%2F720%2Fstatus_mode%2Fmc_status_icon_slowlyforward_1_4.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dtKPjBVgHv2XxLZI92iriIEe1Z/9SfTsqrz8T8tfVrk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph.stripe-full-2.1.1-150302%2Fnls%2Fen.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D/0ktQdO+Jm4i5PNbl0sN5LwRnMOx7fFlX3WkJe/v50=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fbower.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9o+OqdDbJVn6TE/X5QD6nj2+7STx9IY4KBpM7fm/PUY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fbower_components%2Fjquery%2Fdist%2Fjquery.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ImQvICV38LovIsvla2zykaCTdEh1Z801Y+DSop91wMU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fbower_components%2Flodash%2Flodash.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EIoRmvMjINW3VHxmxejKMRgnpKHUySAMZ8SUr7lMbR4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fbower_components%2Flodash%2Flodash.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5SFjNprRbj9eJg3cqxyFQcMoMLSmJ1unwzIQbOA8Bbc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fbower_components%2Fvelocity%2Fvelocity.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XOkvENCTDgs9zjRnsRHbQijsQp45RKAbb8wsMR3VcsQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fbower_components%2Fvelocity%2Fvelocity.ui.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wDASuom6tG2Y97FEJuZU8GWLOpLqeR4WgyOt42cCX9g=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fcaph-jquery.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nl1DBb8G2LXtWQQzvyXskGbvJdRO4m9ztGpyTWPVH2E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fcaph-stripe.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JNdQEUu3o4kf0HS7/QhJ9c2MhY0982LVxw9g+kHb0Tw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fcaph%2F3.0.1%2Fcaph.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1ijF0J8G2Q2DwnZfMeORf2N+Rw9fqIO0Dmk5Izm4RRk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ffonts%2FFontAwesome.otf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ftJMBUMkAxFzcokVQ/DLankiEAkZ564HfB8/r2dljcI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ffonts%2Ffontawesome-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4hns6PTT5KxFXvMc06fHtQV+pooQmTf8JrA8bpnukyI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ffonts%2Ffontawesome-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1nBB/l1Q7vnvZxZDlo985rEw6qqqLOTUlrGNCjOuuHs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ffonts%2Ffontawesome-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e1pDIPug1Mj3kydkW0ucyHWi7GF6VX6Em4E5GOtzNJk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ffonts%2Ffontawesome-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yBLdyeR10+ZdaKaztYnOWYoqW6u3r8VUd9WSFcSjikA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ffonts%2Ffontawesome-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/4Ku7WubtnAWlshNGyI9Lmgut4yJEXpDjObP6oxJiZU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ffonts%2Froboto-regular.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FkZu9lBk5vOIWm0oBriUmsGsOLUk3Qz4/JZWXrTMKOg=</DigestValue>
+</Reference>
+<Reference URI="main.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</DigestValue>
+</Reference>
+<Reference URI="player.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hh2UQ7WHdNuUeUoa24ZK6PqqfSN0FHGGvmUYrngK2Fs=</DigestValue>
+</Reference>
+<Reference URI="splash.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7+VjK1PRQPpcW0GYhgf0zB0A8VHhKPaO396D6hQ1e8w=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+tDqHTqqEc10AGvZ1E1tqcpE4Mti/+FJjzZ4FiFc+5QaxqGFxfSLtjB3gr4i5yAr3Y244FS7ob5m7
+8A/BHM44/W/LJgpynAH3tpWemN+B8keHxjya/Tau8oXSQUP415Y3XUCkGgqlD+rTct0S7dQQwG44
+aDwPx8nt1Ct5netkf7c1J2FDVW7z/K1KuP3NRTFVvWd6jD+8YlO/Se/9s4XLzvDYP2t3BXaCPS7e
+NF/bL8gD8NszD9Dc6PONaQdLsa8KsqeKh/y+Q0q9ZKImJFri19PIp7eJp/Et9FU1ECtOPn3YN9Xs
+BWltz7zeHsgXBm9+9xpo2DSYwmoQKlBj7eFMhQ==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDajCCAlKgAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBijELMAkGA1UEBhMCS1IxFDASBgNVBAgT
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHEwVTdXdvbjEmMCQGA1UEChMdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsTAlZEMSAwHgYDVQQDExdTYW1zdW5nIEF1dGhvciBDQSBDbGFz
+czAeFw0yMDAxMjcwNjQyMDRaFw0yMTAxMjYwNjQyMDRaMEoxCTAHBgNVBAYTADEJMAcGA1UECBMA
+MQkwBwYDVQQHEwAxCTAHBgNVBAoTADEJMAcGA1UECxMAMREwDwYDVQQDDAhFcGljb25AMTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALhbAXVxMybkq7N8lbzc8+A+nZ/XSUOmzySKmvf7
+DHjVVg72otiDZQ319CutHG2e0A1byvZr+UI7A8M4uMebyA5TCx+/uImniBn81YWLFvxadLT24Zhl
+xIJX4q7Za7O2onVVSwyAovsYcG3zLbDIjbxHSJKhQj8flpIYGmjusBuOsfbIDQ82H+5zpZ8A5/ar
+pv6jUtiZVWtfD+gcRkcAXEZY4oOHBMwrv8jGlDP6PzyLF1tGzHh0jNZ1OMlKSHVDYk8agQQ4EGJU
+oE3sURAVxQgUMfA5OgHxLPBScubi0n/nboLtZJVZus5bITEeSKfxgqGjpDHExm3rIlLf39NsYiMC
+AwEAAaMaMBgwCQYDVR0TBAIwADALBgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQELBQADggEBABu5lG2p
+duV62JozMdOi1/pnhdcECPXRNkWALnk3Cj1P8f3RUbBCw+pGrE+SA/hYA3fLLzYgx7tsIBjP6xUu
+VfKWMudfVNzpDi79AxqGzd82YPBwDFG1kK3Iy30l84HEbpjFJDx2zCQ0hPF/8jBFCJ7xn5sbVICq
+aN4AInK+pdZQAcaVrKhX7bBweu++aiC6Z2Unp0Leu696I7Szak6MC5JmucAiT1CQYJ+w6CklsqVl
+2i4gtXFGLKqrx9Z1PIFR2UZ+RSfXyMA3Uq+K0ZC2pVYbNR1b/VIsD4xI4hKKbccx4QNWqBICsnOa
+Fd88auQfkD4UYIkN+nJNnckZNiRevK8=
+</X509Certificate>
+<X509Certificate>
+MIIDdTCCAl2gAwIBAgICaFYwDQYJKoZIhvcNAQELBQAwXjEaMBgGA1UECgwRVGl6ZW4gQXNzb2Np
+YXRpb24xGjAYBgNVBAsMEVRpemVuIEFzc29jaWF0aW9uMSQwIgYDVQQDDBtUaXplbiBEZXZlbG9w
+ZXJzIFJvb3QgQ2xhc3MwHhcNMTUwMjEwMDEwNDAxWhcNMzAwMjA2MDEwNDAxWjCBijELMAkGA1UE
+BhMCS1IxFDASBgNVBAgTC1NvdXRoIEtvcmVhMQ4wDAYDVQQHEwVTdXdvbjEmMCQGA1UEChMdU2Ft
+c3VuZyBFbGVjdHJvbmljcyBDby4sIEx0ZC4xCzAJBgNVBAsTAlZEMSAwHgYDVQQDExdTYW1zdW5n
+IEF1dGhvciBDQSBDbGFzczCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK/iLAudLDIH
+Xfqj5iLi/Izdo4rXMUdbkXYu9az9TgGfUqOmJi203kFFG1T5TQJfVMaBvry+MKLYPzIUWsTcrjel
+DYVTWmEMucxm1lJvX0drZfXdi/EK7TzWEr0sR7ZR4cQuMgv80edK+H0ppFturPumrh/u8yVqTIHQ
+QhfYbOIjW4939BdO5IG03F+8SrN5Udoe/YCtKPS3najZRxx3WqITVvV3AEKd2CualD/9y4Y+y+V7
+m90habypqWX2rnoMk5AG86wFyADkzEv0zoIve//atS2cHRGJx7Com/XXU8OBSsDavwf+6h5AVRzr
+9ETcPTYoRrqt0g5h++xyckvGJKcCAwEAAaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsF
+AAOCAQEAM4cZsU/keJf7D7blzloKbt2a+iuVs6AVR0P/OjB49vmFyozm8oZRcWmxzFSb4+yz5GOj
+CZtpynKgJWfQzL8JZ8zJW8OfMznRFn+sGDMvX3XsDrKkwsrtV0rs5E8WMqYmvH1TmFI9SvP3wgV/
+nKObF2mgyzZC+czZsfUSyNSJxOduNreLA111I7Zyibq+ulwrEs9EltuetBDih2g6XXH60ggXAr7m
+yuCgfn8IW6zSZB3oA0Vc/CIOP9UEfm0LhrW28RgtDMWOXz8QygtMoKZ6R9TrG9S7cJP0rWeZisyQ
+7LE4Aasrk7HNYn1Be+g2m4cUTvs6fLLwyQpARYZJwRHBMg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

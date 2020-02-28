@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/ktismatv" version="1.0.3" viewmodes="maximized">
+    <tizen:application id="bSbP1x36hE.SingleDashBoard" package="bSbP1x36hE" required_version="2.3"/>
+    <content src="index.html"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+    <feature name="http://tizen.org/feature/network.push"/>
+    <feature name="http://tizen.org/feature/network.wifi"/>
+    <feature name="http://tizen.org/feature/tv.display"/>
+    <feature name="http://tizen.org/feature/tv.inputdevice"/>
+    <feature name="http://tizen.org/feature/tv.pip"/>
+    <feature name="http://tizen.org/feature/tv.tuner"/>
+    <feature name="http://tizen.org/feature/tv.audio"/>
+    <feature name="http://www.samsungdforum.com/feature/Keyboard"/>
+    <feature name="http://www.samsungdforum.com/feature/Mobile_device"/>
+    <feature name="http://www.samsungdforum.com/feature/Mouse"/>
+    <icon src="icon.png"/>
+    <tizen:metadata key="http://samsung.com/tv/metadata/prelaunch.support" value="true"/>
+    <name>KTISMA TV</name>
+    <tizen:privilege name="http://tizen.org/privilege/system"/>
+    <tizen:privilege name="http://tizen.org/privilege/tv.audio"/>
+    <tizen:privilege name="http://tizen.org/privilege/tv.channel"/>
+    <tizen:privilege name="http://tizen.org/privilege/tv.display"/>
+    <tizen:privilege name="http://tizen.org/privilege/tv.inputdevice"/>
+    <tizen:privilege name="http://tizen.org/privilege/system"/>
+    <tizen:privilege name="http://tizen.org/privilege/tv.audio"/>
+    <tizen:privilege name="http://developer.samsung.com/privilege/network.public"/>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
+    <tizen:privilege name="http://tizen.org/privilege/content.read"/>
+    <tizen:privilege name="http://tizen.org/privilege/content.write"/>
+    <tizen:privilege name="http://tizen.org/privilege/filesystem.read"/>
+    <tizen:privilege name="http://tizen.org/privilege/filesystem.write"/>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:profile name="tv-samsung"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
